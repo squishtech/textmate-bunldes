@@ -1,0 +1,36 @@
+[submodule "Ack.tmbundle"]
+	path = Ack.tmbundle
+	url = git@github-squishtech:squishtech/ack-tmbundle.git
+[submodule "CSS.tmbundle"]
+	path = CSS.tmbundle
+	url = git@github-squishtech:squishtech/css.tmbundle.git
+[submodule "Erlang.tmbundle"]
+	path = Erlang.tmbundle
+	url = git@github-squishtech:squishtech/erlang.tmbundle.git
+[submodule "HTML.tmbundle"]
+	path = HTML.tmbundle
+	url = git@github-squishtech:squishtech/html-tmbundle.git
+[submodule "Javascript jQuery.tmbundle"]
+	path = Javascript jQuery.tmbundle
+	url = git@github-squishtech:squishtech/javascript-jquery-tmbundle.git
+[submodule "Javascript Tools.tmbundle"]
+	path = Javascript Tools.tmbundle
+	url = git@github-squishtech:squishtech/javascript-tools.tmbundle.git
+[submodule "Javascript.tmbundle"]
+	path = Javascript.tmbundle
+	url = git@github-squishtech:squishtech/javascript.tmbundle.git
+[submodule "HAML.tmbundle"]
+	path = HAML.tmbundle
+	url = git@github-squishtech:squishtech/ruby-haml-tmbundle.git
+[submodule "Ruby on Rails.tmbundle"]
+	path = Ruby on Rails.tmbundle
+	url = git@github-squishtech:squishtech/ruby-on-rails-tmbundle.git
+[submodule "Shoulda.tmbundle"]
+	path = Shoulda.tmbundle
+	url = git@github-squishtech:squishtech/ruby-shoulda-tmbundle.git
+[submodule "Ruby.tmbundle"]
+	path = Ruby.tmbundle
+	url = git@github-squishtech:squishtech/ruby-tmbundle.git
+[submodule "SquishTech.tmbundle"]
+	path = SquishTech.tmbundle
+	url = git@github-squishtech:squishtech/squishtech.tmbundle.git
