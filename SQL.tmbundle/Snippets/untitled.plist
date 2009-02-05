@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>DROP TABLE IF EXISTS ${1};
+CREATE TABLE ${1} (
+	\`id\` int(11) unsigned NOT NULL auto_increment,
+	${2}
+	PRIMARY KEY (\`id\`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;</string>
+	<key>keyEquivalent</key>
+	<string>^@n</string>
+	<key>name</key>
+	<string>New Table</string>
+	<key>scope</key>
+	<string></string>
+	<key>uuid</key>
+	<string>27AE83F9-DE0C-4AAD-8B79-E195DE0EA761</string>
+</dict>
+</plist>
