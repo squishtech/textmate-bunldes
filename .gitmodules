@@ -34,3 +34,6 @@
 [submodule "SquishTech.tmbundle"]
 	path = SquishTech.tmbundle
 	url = git@github-squishtech:squishtech/squishtech.tmbundle.git
+[submodule "SASS.tmbundle"]
+	path = SASS.tmbundle
+	url = git@github-squishtech:squishtech/ruby-sass-tmbundle.git
